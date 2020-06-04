@@ -1,0 +1,13 @@
+﻿#############
+## Idea
+#############
+target/
+.idea/
+.idea
+*.iml
+*.iws
+*.jrtc
+*.info
+*.properties
+*.jar
+
